@@ -1,3 +1,3 @@
-## Welcome to steven GitHub Pages
+## Steven GitHub Pages
 
 Just another beginning
